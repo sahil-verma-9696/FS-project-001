@@ -1,0 +1,12 @@
+[
+    {
+        Day : 1,
+        work : {
+            create : react app by name frontend,
+            create : server dir and make server using express,
+            install : express
+            upload : on git hub,
+            repo : FS-project-001
+        }
+    }
+]
