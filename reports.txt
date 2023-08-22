@@ -6,7 +6,10 @@
             create : server dir and make server using express,
             install : express
             upload : on git hub,
-            repo : FS-project-001
+            repo : FS-project-001,
+            create : reports.txt for daily report on it,
+            target : creating chat app which is full stack project,for uploading on youtube,git
+            next : creating portfolio with our first project completion,
         }
     }
 ]
